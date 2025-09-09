@@ -1,0 +1,7 @@
+<additional>
+    <!-- Detector at lane 'lane_0' -->
+    <e2detector id="det0" lane="25457938#6" pos="50" freq="1" file="det0_output.xml"/>
+    
+    <!-- Detector at lane 'lane_1' -->
+    <e2detector id="det1" lane="70705846#9" pos="50" freq="1" file="det1_output.xml"/>
+</additional>
